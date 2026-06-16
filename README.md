@@ -89,13 +89,6 @@ This project is relevant for:
 
 ---
 
-## Repository Name
-
-```text
-gitops-version-control-lab
-```
-
----
 
 ## Repository Structure
 
