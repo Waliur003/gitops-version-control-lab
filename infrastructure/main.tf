@@ -12,6 +12,3 @@ resource "aws_s3_bucket" "secure_logs" {
     Compliance  = "logging"
   }
 }
-
-# RISKY CHANGE: Public access enabled for testing
-# public_access = true
