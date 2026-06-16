@@ -6,7 +6,11 @@ resource "aws_s3_bucket" "secure_logs" {
 
   tags = {
     Environment = "dev"
+<<<<<<< HEAD
     Owner       = "cloud-security"
+=======
+    Owner       = "cloud-platform-engineering"
+>>>>>>> feature/update-owner-cloud
     Project     = "gitops-version-control-lab"
     Security    = "enabled"
     Compliance  = "logging"
